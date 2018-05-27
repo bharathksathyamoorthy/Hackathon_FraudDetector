@@ -24,3 +24,10 @@ Steps to run the program:
    3. Open Eclipse IDE and import the project as Java Project.
    4. Run FraudDetectorImpl.java
    5. Predictions will be displayed in the console screen.
+   
+
+LEGENDS used in TRAINDATA & TESTDATA:
+Gender : m(MALE)/f(FEMALE)
+Policy Status : if(Inforce)/l(Lapse)
+Relationship with Insured : c(Children)/s(Spouse)/e(Employee)/i(Insured)
+Health Group id : gp(General Physician)/de(Dental)/op(Optical)/hs(Heart Surgery)/ci(Critical illness)/pd(paediatrician)/ma(maternity)
